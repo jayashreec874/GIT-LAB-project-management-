@@ -1,2 +1,3 @@
-print("HELLO WORLD!");
-print("WELCOME TO BIT");
+printf("HELLO WORLD!");
+printf("WELCOME TO BIT");
+printf("this is git lab");
